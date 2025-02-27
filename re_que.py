@@ -40,7 +40,8 @@ else:
 # match=re.findall("\b\d{2}[-|/]\d{2}[-|/]\d{4}\b","Test")
 # print(match)
 
-str=" 123 jnsjg 456 kjffjsb 67.89 kdfhi"
-match=re.finditer("\d+(.\d+)","str")
-for i in match:
-    print(i)
+# str=" 123 jnsjg 456 kjffjsb 67.89 kdfhi"
+# match=re.finditer("\d+(.\d+)","str")
+# for i in match:
+#     print(i)
+
